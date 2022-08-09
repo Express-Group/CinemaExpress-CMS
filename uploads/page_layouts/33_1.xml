@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template templateid = "9" pageid = "69" templatevalues="3-7,5-3"><tplcontainer name="template-wrapper-top" master-tcid="13">
+</tplcontainer>
+<tplcontainer name="template-wrapper-left" master-tcid="14">
+<widgetcontainer type = "1" id ="container-1504005729365"  containervalue="12">
+<widget id ="79" widgetTitle ="Entertainment Video" widgetorder_in_container ="1" data-widgetid="79" data-widgetname="Entertainment Video" data-minimumcontent="4" data-maximumcontent="0" data-contenttype="2" data-widgetfilepath="admin/widgets/entertainment_video" data-widgetstyle="1" data-renderingtype="1" data-isrelatedarticleavailable="0" data-iswidgettitleconfigurable="1" data-issummaryavailable="0" data-createdby="1" data-createdon="0000-00-00 00:00:00" data-modifiedby="0" data-modifiedon="0000-00-00 00:00:00" data-status="1" data-clonedstatus="" data-cloned-instance-id="" data-clonedfrom="" data-widgetthumbnailpath="images/admin/template_design/images/widget_images/entertainment_video-small.jpg" data-clonedinstanceid="" data-widgetcontainerorderid="1" data-widgetpageid="69" data-widgetinstanceid="370" cdata-customBgColor="" cdata-customMaxArticles="3" cdata-customTitle="Interviews" cdata-showSummary="" cdata-iframeUrl="" cdata-renderingMode="auto" cdata-separatorRequired="" cdata-widgetCategory="33" cdata-widgetpublishOn="" cdata-widgetpublishOff="" cdata-widgetStatus="1" cdata-isCloned="0"  >
+</widget>
+</widgetcontainer>
+<widgetcontainer type = "1" id ="container-1512985435611"  containervalue="12">
+<widget id ="132" widgetTitle ="Video List" widgetorder_in_container ="1" data-widgetid="132" data-widgetname="Video List" data-minimumcontent="4" data-maximumcontent="4" data-contenttype="1" data-widgetfilepath="admin/widgets/video_list" data-widgetstyle="1" data-renderingtype="1" data-isrelatedarticleavailable="0" data-iswidgettitleconfigurable="1" data-issummaryavailable="0" data-createdby="1" data-createdon="2017-06-16 00:00:00" data-modifiedby="1" data-modifiedon="2017-06-16 00:00:00" data-status="1" data-clonedstatus="" data-cloned-instance-id="" data-clonedfrom="" data-widgetthumbnailpath="images/admin/template_design/images/widget_images/video_list-small.jpg" data-clonedinstanceid="" data-widgetcontainerorderid="1" data-widgetpageid="69" data-widgetinstanceid="405" cdata-customBgColor="undefined" cdata-customMaxArticles="undefined" cdata-customTitle="undefined" cdata-showSummary="undefined" cdata-iframeUrl="" cdata-renderingMode="undefined" cdata-separatorRequired="" cdata-widgetCategory="undefined" cdata-widgetpublishOn="undefined" cdata-widgetpublishOff="undefined" cdata-widgetStatus="undefined" cdata-isCloned="undefined"  >
+</widget>
+</widgetcontainer>
+</tplcontainer>
+<tplcontainer name="template-wrapper-left" master-tcid="15">
+</tplcontainer>
+<tplcontainer name="template-wrapper-footer" master-tcid="16">
+</tplcontainer>
+</template>

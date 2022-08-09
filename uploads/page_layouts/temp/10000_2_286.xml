@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template templateid = "4" pageid = "188" templatevalues="3-2,1-3"><tplcontainer name="template-wrapper-top" master-tcid="4">
+<widgetcontainer type = "1" id ="container-1483535336497"  containervalue="12">
+</widgetcontainer>
+<widgetcontainer type = "1" id ="container-1483535337952"  containervalue="12">
+</widgetcontainer>
+</tplcontainer>
+<tplcontainer name="template-wrapper-left" master-tcid="5">
+</tplcontainer>
+<tplcontainer name="template-wrapper-left" master-tcid="6">
+</tplcontainer>
+<tplcontainer name="template-wrapper-footer" master-tcid="7">
+<widgetcontainer type = "1" id ="container-1483535342776"  containervalue="12">
+</widgetcontainer>
+</tplcontainer>
+</template>

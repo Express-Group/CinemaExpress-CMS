@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template templateid = "3" pageid = "263" templatevalues="3-2-3"><tplcontainer name="template-wrapper-top" master-tcid="1">
+</tplcontainer>
+<tplcontainer name="template-wrapper-left" master-tcid="2">
+<widgetcontainer type = "1" id ="container-1483093888647"  containervalue="12">
+<widget id ="89" widgetTitle ="Health List3" widgetorder_in_container ="1" data-widgetid="89" data-widgetname="Health List3" data-minimumcontent="1" data-maximumcontent="1" data-contenttype="2" data-widgetfilepath="admin/widgets/health_list3" data-widgetstyle="1" data-renderingtype="1" data-isrelatedarticleavailable="0" data-iswidgettitleconfigurable="1" data-issummaryavailable="1" data-createdby="0" data-createdon="0000-00-00 00:00:00" data-modifiedby="0" data-modifiedon="0000-00-00 00:00:00" data-status="1" data-clonedstatus="" data-cloned-instance-id="" data-clonedfrom="" data-widgetthumbnailpath="images/admin/template_design/images/widget_images/health_list3-small.jpg" data-clonedinstanceid="" data-widgetcontainerorderid="1" data-widgetpageid="263" data-widgetinstanceid="3105" cdata-customBgColor="" cdata-customMaxArticles="6" cdata-customTitle="" cdata-showSummary="1" cdata-iframeUrl="" cdata-renderingMode="auto" cdata-separatorRequired="" cdata-widgetCategory="" cdata-widgetpublishOn="" cdata-widgetpublishOff="" cdata-widgetStatus="1" cdata-isCloned="0"  >
+</widget>
+</widgetcontainer>
+<widgetcontainer type = "1" id ="container-1483093995588"  containervalue="12">
+<widget id ="88" widgetTitle ="Health List2" widgetorder_in_container ="1" data-widgetid="88" data-widgetname="Health List2" data-minimumcontent="1" data-maximumcontent="1" data-contenttype="2" data-widgetfilepath="admin/widgets/health_list2" data-widgetstyle="1" data-renderingtype="1" data-isrelatedarticleavailable="0" data-iswidgettitleconfigurable="1" data-issummaryavailable="1" data-createdby="0" data-createdon="0000-00-00 00:00:00" data-modifiedby="0" data-modifiedon="0000-00-00 00:00:00" data-status="1" data-clonedstatus="" data-cloned-instance-id="" data-clonedfrom="" data-widgetthumbnailpath="images/admin/template_design/images/widget_images/health_list2-small.jpg" data-clonedinstanceid="" data-widgetcontainerorderid="1" data-widgetpageid="263" data-widgetinstanceid="3106" cdata-customBgColor="" cdata-customMaxArticles="6" cdata-customTitle="" cdata-showSummary="1" cdata-iframeUrl="" cdata-renderingMode="auto" cdata-separatorRequired="" cdata-widgetCategory="" cdata-widgetpublishOn="" cdata-widgetpublishOff="" cdata-widgetStatus="1" cdata-isCloned="0"  >
+</widget>
+</widgetcontainer>
+<widgetcontainer type = "1" id ="container-1486123941532"  containervalue="12">
+<widget id ="67" widgetTitle ="Entertainment News" widgetorder_in_container ="1" data-widgetid="67" data-widgetname="Entertainment News" data-minimumcontent="4" data-maximumcontent="0" data-contenttype="2" data-widgetfilepath="admin/widgets/entertainment_news" data-widgetstyle="1" data-renderingtype="1" data-isrelatedarticleavailable="0" data-iswidgettitleconfigurable="1" data-issummaryavailable="0" data-createdby="1" data-createdon="0000-00-00 00:00:00" data-modifiedby="0" data-modifiedon="0000-00-00 00:00:00" data-status="1" data-clonedstatus="" data-cloned-instance-id="" data-clonedfrom="" data-widgetthumbnailpath="images/admin/template_design/images/widget_images/entertainment_news-small.jpg" data-clonedinstanceid="" data-widgetcontainerorderid="1" data-widgetpageid="263" data-widgetinstanceid="3194" cdata-customBgColor="" cdata-customMaxArticles="6" cdata-customTitle="" cdata-showSummary="" cdata-iframeUrl="" cdata-renderingMode="manual" cdata-separatorRequired="" cdata-widgetCategory="" cdata-widgetpublishOn="" cdata-widgetpublishOff="" cdata-widgetStatus="1" cdata-isCloned="0"  >
+</widget>
+</widgetcontainer>
+</tplcontainer>
+<tplcontainer name="template-wrapper-footer" master-tcid="3">
+</tplcontainer>
+</template>

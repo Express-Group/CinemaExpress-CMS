@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template templateid = "4" pageid = "27" templatevalues="3-2,1-3"><tplcontainer name="template-wrapper-top" master-tcid="4">
+</tplcontainer>
+<tplcontainer name="template-wrapper-left" master-tcid="5">
+<widgetcontainer type = "1" id ="container-1490972618429"  containervalue="12">
+<widget id ="110" widgetTitle ="Gallery and Video Lead" widgetorder_in_container ="1" data-widgetid="110" data-widgetname="Gallery and Video Lead" data-minimumcontent="0" data-maximumcontent="0" data-contenttype="7" data-widgetfilepath="admin/widgets/section_top_story" data-widgetstyle="1" data-renderingtype="1" data-isrelatedarticleavailable="0" data-iswidgettitleconfigurable="0" data-issummaryavailable="1" data-createdby="0" data-createdon="0000-00-00 00:00:00" data-modifiedby="0" data-modifiedon="0000-00-00 00:00:00" data-status="1" data-clonedstatus="" data-cloned-instance-id="" data-clonedfrom="" data-widgetthumbnailpath="images/admin/template_design/images/widget_images/section_top_story-small.jpg" data-clonedinstanceid="" data-widgetcontainerorderid="1" data-widgetpageid="27" data-widgetinstanceid="212" cdata-customBgColor="" cdata-customMaxArticles="1" cdata-customTitle="" cdata-showSummary="1" cdata-iframeUrl="" cdata-renderingMode="manual" cdata-separatorRequired="" cdata-widgetCategory="12" cdata-widgetpublishOn="" cdata-widgetpublishOff="" cdata-widgetStatus="1" cdata-isCloned="0"  >
+</widget>
+</widgetcontainer>
+<widgetcontainer type = "1" id ="container-1490972618893"  containervalue="12">
+<widget id ="99" widgetTitle ="Galleries Listing" widgetorder_in_container ="1" data-widgetid="99" data-widgetname="Galleries Listing" data-minimumcontent="1" data-maximumcontent="0" data-contenttype="1" data-widgetfilepath="admin/widgets/gallaries_subsection_other_stories" data-widgetstyle="1" data-renderingtype="1" data-isrelatedarticleavailable="0" data-iswidgettitleconfigurable="0" data-issummaryavailable="0" data-createdby="1" data-createdon="0000-00-00 00:00:00" data-modifiedby="0" data-modifiedon="0000-00-00 00:00:00" data-status="1" data-clonedstatus="" data-cloned-instance-id="" data-clonedfrom="" data-widgetthumbnailpath="images/admin/template_design/images/widget_images/gallaries_subsection_other_stories-small.jpg" data-clonedinstanceid="" data-widgetcontainerorderid="1" data-widgetpageid="27" data-widgetinstanceid="213" cdata-customBgColor="undefined" cdata-customMaxArticles="undefined" cdata-customTitle="undefined" cdata-showSummary="undefined" cdata-iframeUrl="" cdata-renderingMode="undefined" cdata-separatorRequired="" cdata-widgetCategory="undefined" cdata-widgetpublishOn="undefined" cdata-widgetpublishOff="undefined" cdata-widgetStatus="undefined" cdata-isCloned="undefined"  >
+</widget>
+</widgetcontainer>
+</tplcontainer>
+<tplcontainer name="template-wrapper-left" master-tcid="6">
+</tplcontainer>
+<tplcontainer name="template-wrapper-footer" master-tcid="7">
+</tplcontainer>
+</template>

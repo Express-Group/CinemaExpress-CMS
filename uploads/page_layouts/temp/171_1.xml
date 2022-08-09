@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template templateid = "3" pageid = "5" templatevalues="3-2-3"><tplcontainer name="template-wrapper-top" master-tcid="1">
+</tplcontainer>
+<tplcontainer name="template-wrapper-left" master-tcid="2">
+</tplcontainer>
+<tplcontainer name="template-wrapper-footer" master-tcid="3">
+</tplcontainer>
+</template>

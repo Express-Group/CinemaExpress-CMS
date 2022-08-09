@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template templateid = "4" pageid = "47" templatevalues="3-2,1-3"><tplcontainer name="template-wrapper-top" master-tcid="4">
+</tplcontainer>
+<tplcontainer name="template-wrapper-left" master-tcid="5">
+<widgetcontainer type = "1" id ="container-1497585294835"  containervalue="12">
+<widget id ="127" widgetTitle ="slideup" widgetorder_in_container ="1" data-widgetid="127" data-widgetname="slideup" data-minimumcontent="1" data-maximumcontent="1" data-contenttype="2" data-widgetfilepath="admin/widgets/slideup" data-widgetstyle="1" data-renderingtype="1" data-isrelatedarticleavailable="1" data-iswidgettitleconfigurable="1" data-issummaryavailable="1" data-createdby="1" data-createdon="2017-03-18 00:00:00" data-modifiedby="1" data-modifiedon="2017-03-18 00:00:00" data-status="1" data-clonedstatus="" data-cloned-instance-id="" data-clonedfrom="" data-widgetthumbnailpath="images/admin/template_design/images/widget_images/slideup-small.jpg" data-clonedinstanceid="" data-widgetcontainerorderid="1" data-widgetpageid="47" data-widgetinstanceid="454" cdata-customBgColor="tttt" cdata-customMaxArticles="3" cdata-customTitle="two" cdata-showSummary="0" cdata-iframeUrl="" cdata-renderingMode="auto" cdata-separatorRequired="" cdata-widgetCategory="4" cdata-widgetpublishOn="" cdata-widgetpublishOff="" cdata-widgetStatus="1" cdata-isCloned="0"  >
+</widget>
+</widgetcontainer>
+</tplcontainer>
+<tplcontainer name="template-wrapper-left" master-tcid="6">
+<widgetcontainer type = "1" id ="container-1524215620130"  containervalue="12">
+<widget id ="123" widgetTitle ="Raw Script Dont use" widgetorder_in_container ="1" data-widgetid="123" data-widgetname="Raw Script Dont use" data-minimumcontent="0" data-maximumcontent="0" data-contenttype="2" data-widgetfilepath="admin/widgets/raw_script" data-widgetstyle="1" data-renderingtype="3" data-isrelatedarticleavailable="0" data-iswidgettitleconfigurable="1" data-issummaryavailable="0" data-createdby="1" data-createdon="0000-00-00 00:00:00" data-modifiedby="0" data-modifiedon="0000-00-00 00:00:00" data-status="1" data-clonedstatus="" data-cloned-instance-id="" data-clonedfrom="" data-widgetthumbnailpath="images/admin/template_design/images/widget_images/raw_script-small.jpg" data-clonedinstanceid="" data-widgetcontainerorderid="1" data-widgetpageid="47" data-widgetinstanceid="455" cdata-customBgColor="undefined" cdata-customMaxArticles="undefined" cdata-customTitle="undefined" cdata-showSummary="undefined" cdata-iframeUrl="" cdata-renderingMode="undefined" cdata-separatorRequired="" cdata-widgetCategory="undefined" cdata-widgetpublishOn="undefined" cdata-widgetpublishOff="undefined" cdata-widgetStatus="undefined" cdata-isCloned="undefined"  >
+</widget>
+</widgetcontainer>
+<widgetcontainer type = "1" id ="container-1545884764770"  containervalue="12">
+<widget id ="123" widgetTitle ="Raw Script Dont use" widgetorder_in_container ="1" data-widgetid="123" data-widgetname="Raw Script Dont use" data-minimumcontent="0" data-maximumcontent="0" data-contenttype="2" data-widgetfilepath="admin/widgets/raw_script" data-widgetstyle="1" data-renderingtype="3" data-isrelatedarticleavailable="0" data-iswidgettitleconfigurable="1" data-issummaryavailable="0" data-createdby="1" data-createdon="0000-00-00 00:00:00" data-modifiedby="0" data-modifiedon="0000-00-00 00:00:00" data-status="1" data-clonedstatus="" data-cloned-instance-id="" data-clonedfrom="" data-widgetthumbnailpath="images/admin/template_design/images/widget_images/raw_script-small.jpg" data-clonedinstanceid="" data-widgetcontainerorderid="1" data-widgetpageid="47" data-widgetinstanceid="456" cdata-customBgColor="undefined" cdata-customMaxArticles="undefined" cdata-customTitle="undefined" cdata-showSummary="undefined" cdata-iframeUrl="" cdata-renderingMode="undefined" cdata-separatorRequired="" cdata-widgetCategory="undefined" cdata-widgetpublishOn="undefined" cdata-widgetpublishOff="undefined" cdata-widgetStatus="undefined" cdata-isCloned="undefined"  >
+</widget>
+</widgetcontainer>
+</tplcontainer>
+<tplcontainer name="template-wrapper-footer" master-tcid="7">
+<widgetcontainer type = "1" id ="container-1524215617887"  containervalue="12">
+</widgetcontainer>
+</tplcontainer>
+</template>

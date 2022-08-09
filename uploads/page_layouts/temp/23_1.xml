@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template templateid = "4" pageid = "49" templatevalues="3-2,1-3"><tplcontainer name="template-wrapper-top" master-tcid="4">
+</tplcontainer>
+<tplcontainer name="template-wrapper-left" master-tcid="5">
+<widgetcontainer type = "1" id ="container-1529670625892"  containervalue="12">
+<widget id ="130" widgetTitle ="author details" widgetorder_in_container ="1" data-widgetid="130" data-widgetname="author details" data-minimumcontent="1" data-maximumcontent="1" data-contenttype="2" data-widgetfilepath="admin/widgets/author" data-widgetstyle="1" data-renderingtype="1" data-isrelatedarticleavailable="1" data-iswidgettitleconfigurable="1" data-issummaryavailable="1" data-createdby="1" data-createdon="2017-04-03 00:00:00" data-modifiedby="1" data-modifiedon="2017-04-03 00:00:00" data-status="1" data-clonedstatus="" data-cloned_instance_id="" data-clonedfrom="" data-widgetthumbnailpath="images/admin/template_design/images/widget_images/author-small.jpg" data-clonedinstanceid="" data-widgetcontainerorderid="1" data-widgetpageid="49" data-widgetinstanceid="423" cdata-customBgColor="" cdata-customMaxArticles="1" cdata-customTitle="" cdata-showSummary="1" cdata-iframeUrl="" cdata-renderingMode="manual" cdata-separatorRequired="" cdata-widgetCategory="" cdata-widgetpublishOn="" cdata-widgetpublishOff="" cdata-widgetStatus="1" cdata-isCloned="0"  >
+</widget>
+</widgetcontainer>
+</tplcontainer>
+<tplcontainer name="template-wrapper-left" master-tcid="6">
+</tplcontainer>
+<tplcontainer name="template-wrapper-footer" master-tcid="7">
+</tplcontainer>
+</template>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+<widget_imgpath>uploads/user/imagelibrary/</widget_imgpath>
+<section_url>admin/template_designer/load_saved_template/</section_url>
+<article_url>admin/template_designer/load_saved_template/</article_url>
+</template>

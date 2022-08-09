@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template templateid = "4" pageid = "65" templatevalues="3-2,1-3"><tplcontainer name="template-wrapper-top" master-tcid="4">
+</tplcontainer>
+<tplcontainer name="template-wrapper-left" master-tcid="5">
+<widgetcontainer type = "1" id ="container-1495771896677"  containervalue="12">
+<widget id ="79" widgetTitle ="Entertainment Video" widgetorder_in_container ="1" data-widgetid="79" data-widgetname="Entertainment Video" data-minimumcontent="4" data-maximumcontent="0" data-contenttype="2" data-widgetfilepath="admin/widgets/entertainment_video" data-widgetstyle="1" data-renderingtype="1" data-isrelatedarticleavailable="0" data-iswidgettitleconfigurable="1" data-issummaryavailable="0" data-createdby="1" data-createdon="0000-00-00 00:00:00" data-modifiedby="0" data-modifiedon="0000-00-00 00:00:00" data-status="1" data-clonedstatus="" data-cloned-instance-id="" data-clonedfrom="" data-widgetthumbnailpath="images/admin/template_design/images/widget_images/entertainment_video-small.jpg" data-clonedinstanceid="" data-widgetcontainerorderid="1" data-widgetpageid="65" data-widgetinstanceid="308" cdata-customBgColor="" cdata-customMaxArticles="3" cdata-customTitle="Trailers" cdata-showSummary="" cdata-iframeUrl="" cdata-renderingMode="manual" cdata-separatorRequired="" cdata-widgetCategory="21" cdata-widgetpublishOn="" cdata-widgetpublishOff="" cdata-widgetStatus="2" cdata-isCloned="0"  >
+</widget>
+</widgetcontainer>
+<widgetcontainer type = "1" id ="container-1497595967336"  containervalue="12">
+<widget id ="79" widgetTitle ="Entertainment Video" widgetorder_in_container ="1" data-widgetid="79" data-widgetname="Entertainment Video" data-minimumcontent="4" data-maximumcontent="0" data-contenttype="2" data-widgetfilepath="admin/widgets/entertainment_video" data-widgetstyle="1" data-renderingtype="1" data-isrelatedarticleavailable="0" data-iswidgettitleconfigurable="1" data-issummaryavailable="0" data-createdby="1" data-createdon="0000-00-00 00:00:00" data-modifiedby="0" data-modifiedon="0000-00-00 00:00:00" data-status="1" data-clonedstatus="" data-cloned-instance-id="" data-clonedfrom="" data-widgetthumbnailpath="images/admin/template_design/images/widget_images/entertainment_video-small.jpg" data-clonedinstanceid="" data-widgetcontainerorderid="1" data-widgetpageid="65" data-widgetinstanceid="407" cdata-customBgColor="" cdata-customMaxArticles="3" cdata-customTitle="Interviews" cdata-showSummary="" cdata-iframeUrl="" cdata-renderingMode="auto" cdata-separatorRequired="" cdata-widgetCategory="33" cdata-widgetpublishOn="" cdata-widgetpublishOff="" cdata-widgetStatus="2" cdata-isCloned="0"  >
+</widget>
+</widgetcontainer>
+<widgetcontainer type = "1" id ="container-1562318797188"  containervalue="12">
+<widget id ="24" widgetTitle ="Videos" widgetorder_in_container ="1" data-widgetid="24" data-widgetname="Videos" data-minimumcontent="4" data-maximumcontent="4" data-contenttype="2" data-widgetfilepath="admin/widgets/videos" data-widgetstyle="1" data-renderingtype="1" data-isrelatedarticleavailable="0" data-iswidgettitleconfigurable="0" data-issummaryavailable="0" data-createdby="1" data-createdon="0000-00-00 00:00:00" data-modifiedby="0" data-modifiedon="0000-00-00 00:00:00" data-status="1" data-clonedstatus="" data-cloned_instance_id="" data-clonedfrom="" data-widgetthumbnailpath="images/admin/template_design/images/widget_images/videos-small.jpg" data-clonedinstanceid="" data-widgetcontainerorderid="1" data-widgetpageid="65" data-widgetinstanceid="487" cdata-customBgColor="" cdata-customMaxArticles="10" cdata-customTitle="" cdata-showSummary="" cdata-iframeUrl="" cdata-renderingMode="auto" cdata-separatorRequired="" cdata-widgetCategory="31" cdata-widgetpublishOn="" cdata-widgetpublishOff="" cdata-widgetStatus="1" cdata-isCloned="0"  >
+</widget>
+</widgetcontainer>
+</tplcontainer>
+<tplcontainer name="template-wrapper-left" master-tcid="6">
+</tplcontainer>
+<tplcontainer name="template-wrapper-footer" master-tcid="7">
+</tplcontainer>
+</template>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template templateid = "3" pageid = "2" templatevalues="3-2-3"><tplcontainer name="template-wrapper-top" master-tcid="1">
+<widgetcontainer type = "1" id ="container-1490174686210"  containervalue="12">
+<widget id ="38" widgetTitle ="weather logo search" widgetorder_in_container ="1" data-widgetid="38" data-widgetname="weather logo search" data-minimumcontent="1" data-maximumcontent="0" data-contenttype="1" data-widgetfilepath="admin/widgets/weather_logo_search" data-widgetstyle="1" data-renderingtype="1" data-isrelatedarticleavailable="0" data-iswidgettitleconfigurable="0" data-issummaryavailable="0" data-createdby="1" data-createdon="0000-00-00 00:00:00" data-modifiedby="0" data-modifiedon="0000-00-00 00:00:00" data-status="1" data-clonedstatus="" data-cloned_instance_id="" data-clonedfrom="" data-widgetthumbnailpath="images/admin/template_design/images/widget_images/weather_logo_search-small.jpg" data-clonedinstanceid="" data-widgetcontainerorderid="1" data-widgetpageid="2" data-widgetinstanceid="79"  >
+</widget>
+</widgetcontainer>
+<widgetcontainer type = "1" id ="container-1490174686970"  containervalue="12">
+<widget id ="30" widgetTitle ="Section" widgetorder_in_container ="1" data-widgetid="30" data-widgetname="Section" data-minimumcontent="1" data-maximumcontent="5" data-contenttype="1" data-widgetfilepath="admin/widgets/menu" data-widgetstyle="1" data-renderingtype="1" data-isrelatedarticleavailable="0" data-iswidgettitleconfigurable="0" data-issummaryavailable="0" data-createdby="1" data-createdon="0000-00-00 00:00:00" data-modifiedby="0" data-modifiedon="0000-00-00 00:00:00" data-status="1" data-clonedstatus="" data-cloned_instance_id="" data-clonedfrom="" data-widgetthumbnailpath="images/admin/template_design/images/widget_images/menu-small.jpg" data-clonedinstanceid="" data-widgetcontainerorderid="1" data-widgetpageid="2" data-widgetinstanceid="80"  >
+</widget>
+</widgetcontainer>
+</tplcontainer>
+<tplcontainer name="template-wrapper-left" master-tcid="2">
+<widgetcontainer type = "1" id ="container-1490174775851"  containervalue="12">
+<widget id ="41" widgetTitle ="Article Details" widgetorder_in_container ="1" data-widgetid="41" data-widgetname="Article Details" data-minimumcontent="1" data-maximumcontent="0" data-contenttype="1" data-widgetfilepath="admin/widgets/article_details" data-widgetstyle="1" data-renderingtype="1" data-isrelatedarticleavailable="0" data-iswidgettitleconfigurable="0" data-issummaryavailable="0" data-createdby="1" data-createdon="0000-00-00 00:00:00" data-modifiedby="0" data-modifiedon="0000-00-00 00:00:00" data-status="1" data-clonedstatus="" data-cloned_instance_id="" data-clonedfrom="" data-widgetthumbnailpath="images/admin/template_design/images/widget_images/article_details-small.jpg" data-clonedinstanceid="" data-widgetcontainerorderid="1" data-widgetpageid="2" data-widgetinstanceid="81"  >
+</widget>
+</widgetcontainer>
+</tplcontainer>
+<tplcontainer name="template-wrapper-footer" master-tcid="3">
+</tplcontainer>
+</template>

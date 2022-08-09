@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template templateid = "4" pageid = "59" templatevalues="3-2,1-3"><tplcontainer name="template-wrapper-top" master-tcid="4">
+</tplcontainer>
+<tplcontainer name="template-wrapper-left" master-tcid="5">
+<widgetcontainer type = "1" id ="container-1491285151098"  containervalue="12">
+<widget id ="97" widgetTitle ="Advertise with us" widgetorder_in_container ="1" data-widgetid="97" data-widgetname="Advertise with us" data-minimumcontent="0" data-maximumcontent="0" data-contenttype="1" data-widgetfilepath="admin/widgets/advertise_with_us" data-widgetstyle="1" data-renderingtype="1" data-isrelatedarticleavailable="0" data-iswidgettitleconfigurable="0" data-issummaryavailable="0" data-createdby="1" data-createdon="0000-00-00 00:00:00" data-modifiedby="0" data-modifiedon="0000-00-00 00:00:00" data-status="1" data-clonedstatus="" data-cloned_instance_id="" data-clonedfrom="" data-widgetthumbnailpath="images/admin/template_design/images/widget_images/advertise_with_us-small.jpg" data-clonedinstanceid="" data-widgetcontainerorderid="1" data-widgetpageid="59" data-widgetinstanceid="236"  >
+</widget>
+</widgetcontainer>
+</tplcontainer>
+<tplcontainer name="template-wrapper-left" master-tcid="6">
+</tplcontainer>
+<tplcontainer name="template-wrapper-footer" master-tcid="7">
+</tplcontainer>
+</template>

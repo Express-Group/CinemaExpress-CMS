@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template templateid = "4" pageid = "9" templatevalues="3-2,1-3"><tplcontainer name="template-wrapper-top" master-tcid="4">
+</tplcontainer>
+<tplcontainer name="template-wrapper-left" master-tcid="5">
+<widgetcontainer type = "1" id ="container-1490970791506"  containervalue="12">
+<widget id ="57" widgetTitle ="Gallery Type 1" widgetorder_in_container ="1" data-widgetid="57" data-widgetname="Gallery Type 1" data-minimumcontent="4" data-maximumcontent="0" data-contenttype="3" data-widgetfilepath="admin/widgets/gallery_entertainment" data-widgetstyle="1" data-renderingtype="1" data-isrelatedarticleavailable="0" data-iswidgettitleconfigurable="1" data-issummaryavailable="1" data-createdby="1" data-createdon="0000-00-00 00:00:00" data-modifiedby="0" data-modifiedon="0000-00-00 00:00:00" data-status="1" data-clonedstatus="" data-cloned-instance-id="" data-clonedfrom="" data-widgetthumbnailpath="images/admin/template_design/images/widget_images/gallery_entertainment-small.jpg" data-clonedinstanceid="" data-widgetcontainerorderid="1" data-widgetpageid="9" data-widgetinstanceid="417" cdata-customBgColor="" cdata-customMaxArticles="3" cdata-customTitle="Events" cdata-showSummary="0" cdata-iframeUrl="" cdata-renderingMode="manual" cdata-separatorRequired="" cdata-widgetCategory="10" cdata-widgetpublishOn="" cdata-widgetpublishOff="" cdata-widgetStatus="1" cdata-isCloned="0"  >
+</widget>
+</widgetcontainer>
+<widgetcontainer type = "1" id ="container-1489644216247"  containervalue="12">
+<widget id ="57" widgetTitle ="Gallery Type 1" widgetorder_in_container ="1" data-widgetid="57" data-widgetname="Gallery Type 1" data-minimumcontent="4" data-maximumcontent="0" data-contenttype="3" data-widgetfilepath="admin/widgets/gallery_entertainment" data-widgetstyle="1" data-renderingtype="1" data-isrelatedarticleavailable="0" data-iswidgettitleconfigurable="1" data-issummaryavailable="1" data-createdby="1" data-createdon="0000-00-00 00:00:00" data-modifiedby="0" data-modifiedon="0000-00-00 00:00:00" data-status="1" data-clonedstatus="" data-cloned-instance-id="" data-clonedfrom="" data-widgetthumbnailpath="images/admin/template_design/images/widget_images/gallery_entertainment-small.jpg" data-clonedinstanceid="" data-widgetcontainerorderid="1" data-widgetpageid="9" data-widgetinstanceid="195" cdata-customBgColor="" cdata-customMaxArticles="3" cdata-customTitle="On the Sets" cdata-showSummary="0" cdata-iframeUrl="" cdata-renderingMode="manual" cdata-separatorRequired="" cdata-widgetCategory="11" cdata-widgetpublishOn="" cdata-widgetpublishOff="" cdata-widgetStatus="1" cdata-isCloned="0"  >
+</widget>
+</widgetcontainer>
+<widgetcontainer type = "1" id ="container-1490620005484"  containervalue="12">
+<widget id ="57" widgetTitle ="Gallery Type 1" widgetorder_in_container ="1" data-widgetid="57" data-widgetname="Gallery Type 1" data-minimumcontent="4" data-maximumcontent="0" data-contenttype="3" data-widgetfilepath="admin/widgets/gallery_entertainment" data-widgetstyle="1" data-renderingtype="1" data-isrelatedarticleavailable="0" data-iswidgettitleconfigurable="1" data-issummaryavailable="1" data-createdby="1" data-createdon="0000-00-00 00:00:00" data-modifiedby="0" data-modifiedon="0000-00-00 00:00:00" data-status="1" data-clonedstatus="" data-cloned-instance-id="" data-clonedfrom="" data-widgetthumbnailpath="images/admin/template_design/images/widget_images/gallery_entertainment-small.jpg" data-clonedinstanceid="" data-widgetcontainerorderid="1" data-widgetpageid="9" data-widgetinstanceid="196" cdata-customBgColor="" cdata-customMaxArticles="3" cdata-customTitle="Movies" cdata-showSummary="0" cdata-iframeUrl="" cdata-renderingMode="manual" cdata-separatorRequired="" cdata-widgetCategory="12" cdata-widgetpublishOn="" cdata-widgetpublishOff="" cdata-widgetStatus="1" cdata-isCloned="0"  >
+</widget>
+</widgetcontainer>
+<widgetcontainer type = "1" id ="container-1490970790963"  containervalue="12">
+<widget id ="57" widgetTitle ="Gallery Type 1" widgetorder_in_container ="1" data-widgetid="57" data-widgetname="Gallery Type 1" data-minimumcontent="4" data-maximumcontent="0" data-contenttype="3" data-widgetfilepath="admin/widgets/gallery_entertainment" data-widgetstyle="1" data-renderingtype="1" data-isrelatedarticleavailable="0" data-iswidgettitleconfigurable="1" data-issummaryavailable="1" data-createdby="1" data-createdon="0000-00-00 00:00:00" data-modifiedby="0" data-modifiedon="0000-00-00 00:00:00" data-status="1" data-clonedstatus="" data-cloned-instance-id="" data-clonedfrom="" data-widgetthumbnailpath="images/admin/template_design/images/widget_images/gallery_entertainment-small.jpg" data-clonedinstanceid="" data-widgetcontainerorderid="1" data-widgetpageid="9" data-widgetinstanceid="198" cdata-customBgColor="" cdata-customMaxArticles="3" cdata-customTitle="Slideshows" cdata-showSummary="0" cdata-iframeUrl="" cdata-renderingMode="manual" cdata-separatorRequired="" cdata-widgetCategory="14" cdata-widgetpublishOn="" cdata-widgetpublishOff="" cdata-widgetStatus="1" cdata-isCloned="0"  >
+</widget>
+</widgetcontainer>
+</tplcontainer>
+<tplcontainer name="template-wrapper-left" master-tcid="6">
+</tplcontainer>
+<tplcontainer name="template-wrapper-footer" master-tcid="7">
+</tplcontainer>
+</template>
